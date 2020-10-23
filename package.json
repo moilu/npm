@@ -1,0 +1,24 @@
+{
+  "name": "norris-joke",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Moises Luna",
+  "license": "MIT",
+  "keywords": [],
+  "description": "paquete de nombres random",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/moilu/npm.git"
+  },
+  "bugs": {
+    "url": "https://github.com/moilu/npm/issues"
+  },
+  "homepage": "https://github.com/moilu/npm#readme",
+  "bin": {
+    "norris-joke": "../bin/global.js"
+  },
+  "preferGlobal": true
+}
