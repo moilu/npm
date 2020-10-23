@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/moilu/npm#readme",
   "bin": {
-    "norris-joke": "../bin/global.js"
+    "norris-joke": "bin/global.js"
   },
   "preferGlobal": true
 }
